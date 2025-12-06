@@ -8,6 +8,9 @@ from fastapi.middleware.cors import CORSMiddleware
 
 # After initializing FastAPI
 app = FastAPI(title="GitHub GPT Mood Classifier")
+from fastapi.staticfiles import StaticFiles
+
+app.mount("/", StaticFiles(directory="frontend", html=True), name="frontend")
 
 # Allow your frontend to call the backend
 app.add_middleware(
