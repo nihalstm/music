@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emotion-based Music Recommender</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      max-width: 600px;
+      margin: auto;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+    button {
+      margin-top: 1rem;
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+    }
+    .result {
+      margin-top: 2rem;
+      padding: 1rem;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      background-color: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Emotion-based Music Recommender</h1>
+  <p>Type how you feel or your current mood:</p>
+  <input type="text" id="moodInput" placeholder="I am feeling happy...">
+  <button id="getSong">Get Song</button>
+
+  <div class="result" id="result" style="display:none;">
+    <p><strong>Mood:</strong> <span id="mood"></span></p>
+    <p><strong>Track:</strong> <span id="track"></span></p>
+    <p><strong>Artist:</strong> <span id="artist"></span></p>
+    <p><strong>Preview:</strong> <a href="#" id="preview" target="_blank">Listen</a></p>
+  </div>
+
+  <script>
+    const button = document.getElementById('getSong');
+    const input = document.getElementById('moodInput');
+
+    button.addEventListener('click', async () => {
+      const text = input.value.trim();
+      if (!text) {
+        alert("Please type something!");
+        return;
+      }
+
+      try {
+        const res = await fetch('http://127.0.0.1:8000/analyze', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ text })
+        });
+
+        if (!res.ok) throw new Error('Backend error');
+
+        const data = await res.json();
+        document.getElementById('mood').textContent = data.mood;
+        document.getElementById('track').textContent = data.track_name || "N/A";
+        document.getElementById('artist').textContent = data.artist || "N/A";
+        const preview = document.getElementById('preview');
+        if (data.preview_url) {
+          preview.href = data.preview_url;
+          preview.style.display = "inline";
+        } else {
+          preview.style.display = "none";
+        }
+        document.getElementById('result').style.display = "block";
+      } catch (err) {
+        alert("Error: Could not get recommendation.");
+        console.error(err);
+      }
+    });
+  </script>
+</body>
+</html>

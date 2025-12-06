@@ -3,6 +3,20 @@ import requests
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from dotenv import load_dotenv
+# Add at the top after your imports
+from fastapi.middleware.cors import CORSMiddleware
+
+# After initializing FastAPI
+app = FastAPI(title="GitHub GPT Mood Classifier")
+
+# Allow your frontend to call the backend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # or ["http://localhost:5500"] if you want to restrict
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Load .env
 load_dotenv()
@@ -13,8 +27,6 @@ if not GITHUB_TOKEN:
 # GitHub-hosted GPT endpoint
 GITHUB_GPT_ENDPOINT = "https://models.github.ai/inference"
 
-# FastAPI init
-app = FastAPI(title="GitHub GPT Mood Classifier")
 
 # Request / Response models
 class UserText(BaseModel):
