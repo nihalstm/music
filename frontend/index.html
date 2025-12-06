@@ -10,52 +10,92 @@
       padding: 2rem;
       max-width: 600px;
       margin: auto;
+      background-color: #f4f4f9;
     }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+
     input[type="text"] {
       width: 100%;
       padding: 0.5rem;
       font-size: 1rem;
+      border-radius: 5px;
+      border: 1px solid #ccc;
     }
+
     button {
       margin-top: 1rem;
       padding: 0.5rem 1rem;
       font-size: 1rem;
+      border-radius: 5px;
+      border: none;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
     }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
     .result {
       margin-top: 2rem;
       padding: 1rem;
       border: 1px solid #ddd;
       border-radius: 8px;
-      background-color: #f9f9f9;
+      background-color: #fff;
+      display: none;
+    }
+
+    .result p {
+      margin: 0.5rem 0;
+    }
+
+    .error {
+      color: red;
+      margin-top: 1rem;
+      display: none;
     }
   </style>
 </head>
 <body>
   <h1>Emotion-based Music Recommender</h1>
+
   <p>Type how you feel or your current mood:</p>
   <input type="text" id="moodInput" placeholder="I am feeling happy...">
   <button id="getSong">Get Song</button>
 
-  <div class="result" id="result" style="display:none;">
+  <div class="result" id="result">
     <p><strong>Mood:</strong> <span id="mood"></span></p>
     <p><strong>Track:</strong> <span id="track"></span></p>
     <p><strong>Artist:</strong> <span id="artist"></span></p>
     <p><strong>Preview:</strong> <a href="#" id="preview" target="_blank">Listen</a></p>
   </div>
 
+  <p class="error" id="errorMsg">Error: Could not get recommendation.</p>
+
   <script>
     const button = document.getElementById('getSong');
     const input = document.getElementById('moodInput');
+    const resultDiv = document.getElementById('result');
+    const errorDiv = document.getElementById('errorMsg');
 
     button.addEventListener('click', async () => {
       const text = input.value.trim();
+      resultDiv.style.display = "none";
+      errorDiv.style.display = "none";
+
       if (!text) {
         alert("Please type something!");
         return;
       }
 
       try {
-        const res = await fetch('http://127.0.0.1:8000/analyze', {
+        // Use your Render backend URL here
+        const res = await fetch('https://music-xrfs.onrender.com/analyze', { 
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ text })
@@ -67,6 +107,7 @@
         document.getElementById('mood').textContent = data.mood;
         document.getElementById('track').textContent = data.track_name || "N/A";
         document.getElementById('artist').textContent = data.artist || "N/A";
+
         const preview = document.getElementById('preview');
         if (data.preview_url) {
           preview.href = data.preview_url;
@@ -74,10 +115,11 @@
         } else {
           preview.style.display = "none";
         }
-        document.getElementById('result').style.display = "block";
+
+        resultDiv.style.display = "block";
       } catch (err) {
-        alert("Error: Could not get recommendation.");
         console.error(err);
+        errorDiv.style.display = "block";
       }
     });
   </script>
