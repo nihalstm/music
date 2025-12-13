@@ -1,0 +1,1078 @@
+alias,canonical
+serene,Calm
+peaceful,Calm
+tranquil,Calm
+soothing,Calm
+unwind,Calm
+breathwork,Calm
+wind down,Calm
+decompress,Calm
+
+chill,Chill
+laid back,Chill
+lofi,Chill
+lo-fi,Chill
+coffee shop,Chill
+background vibe,Chill
+easy listening,Chill
+soft beats,Chill
+
+mellow,Mellow
+smooth,Mellow
+soft,Mellow
+gentle,Mellow
+warm vibes,Mellow
+downtempo,Mellow
+
+dreamy,Dreamy
+floaty,Dreamy
+airy,Dreamy
+hazy,Dreamy
+cloudlike,Dreamy
+shoegaze,Dreamy
+glimmer,Dreamy
+
+atmospheric,Atmospheric
+cinematic,Atmospheric
+soundscape,Atmospheric
+ambient,Atmospheric
+spacey,Atmospheric
+wide open,Atmospheric
+post rock,Atmospheric
+
+hypnotic,Hypnotic
+mesmerizing,Hypnotic
+trancey,Hypnotic
+looped,Hypnotic
+rolling,Hypnotic
+locked groove,Hypnotic
+
+focus,Focus
+study,Focus
+deep work,Focus
+concentrate,Focus
+no lyrics,Focus
+instrumental only,Focus
+pomodoro,Focus
+
+introspective,Introspective
+inward,Introspective
+reflective,Introspective
+journaling,Introspective
+late night thoughts,Introspective
+
+sad,Melancholic
+heartbroken,Melancholic
+blue,Melancholic
+tearful,Melancholic
+lonely,Melancholic
+crying in the club,Melancholic
+down bad,Melancholic
+
+somber,Somber
+bleak,Somber
+funeral,Somber
+dreary,Somber
+overcast,Somber
+rainy day,Somber
+
+brooding,Brooding
+moody,Brooding
+stormy,Brooding
+smoldering,Brooding
+
+dark,Dark
+shadowy,Dark
+goth,Dark
+noir,Dark
+ominous,Dark
+
+warm,Warm
+cozy,Warm
+fireplace,Warm
+blanket,Warm
+golden hour,Warm
+
+bright,Bright
+bubbly,Bright
+sparkly,Bright
+sunny,Bright
+shiny,Bright
+
+uplifting,Uplifting
+feel good,Uplifting
+feelgood,Uplifting
+positive vibes,Uplifting
+good mood,Uplifting
+pick me up,Uplifting
+
+euphoric,Euphoric
+rush,Euphoric
+hands in the air,Euphoric
+festival high,Euphoric
+drop ready,Euphoric
+
+playful,Playful
+whimsical,Playful
+cheeky,Playful
+bouncy,Playful
+quirky,Playful
+
+romantic,Romantic
+date night,Romantic
+love songs,Romantic
+candlelight,Romantic
+slow dance,Romantic
+
+sensual,Sensual
+intimate,Sensual
+steamy,Sensual
+bedroom,Sensual
+make out,Sensual
+
+bittersweet,Bittersweet
+sweet sorrow,Bittersweet
+wistful,Bittersweet
+moving on,Bittersweet
+
+nostalgic,Nostalgic
+throwback,Nostalgic
+retro vibes,Nostalgic
+remember when,Nostalgic
+coming of age,Nostalgic
+
+hopeful,Hopeful
+optimistic,Hopeful
+new beginnings,Hopeful
+fresh start,Hopeful
+
+triumphant,Triumphant
+victorious,Triumphant
+we made it,Triumphant
+win day,Triumphant
+
+epic,Epic
+anthemic,Epic
+boss battle,Epic
+final boss,Epic
+trailer music,Epic
+
+energetic,Energetic
+hyped,Energetic
+pump up,Energetic
+high octane,Energetic
+upbeat,Energetic
+
+aggressive,Aggressive
+heavy,Aggressive
+hard hitting,Aggressive
+rage,Aggressive
+mosh,Aggressive
+go hard,Aggressive
+
+gritty,Gritty
+raw,Gritty
+dirty,Gritty
+crunchy,Gritty
+garage,Gritty
+
+groovy,Groovy
+funky,Groovy
+in the pocket,Groovy
+strut,Groovy
+head nod,Groovy
+
+confident,Confident
+boss mode,Confident
+swagger,Confident
+power walk,Confident
+
+tense,Tense
+edgy,Tense
+nervy,Tense
+anxious energy,Tense
+on edge,Tense
+
+dramatic,Dramatic
+theatrical,Dramatic
+cliffhanger,Dramatic
+plot twist,Dramatic
+slow burn,Dramatic
+
+ethereal,Ethereal
+otherworldly,Ethereal
+angelic,Ethereal
+glacial,Ethereal
+weightless,Ethereal
+
+to study,Focus
+instrumental,Focus
+study beats,Focus
+bgm,Focus
+run,Energetic
+running,Energetic
+5am run,Energetic
+morning run,Energetic
+workout,Energetic
+cardio,Energetic
+hiit,Energetic
+rainy night,Somber
+late night drive,Nostalgic
+
+sprint,Energetic
+pr day,Energetic
+pump,Energetic
+hype,Energetic
+final boss,Epic
+boss mode,Confident
+power playlist,Confident
+study music,Focus
+
+# running / hype
+sprint,Energetic
+race day,Triumphant
+marathon,Triumphant
+intervals,Energetic
+track day,Energetic
+gym,Energetic
+preworkout,Energetic
+beast mode,Confident
+power playlist,Confident
+power walk,Confident
+hype,Energetic
+
+# focus phrasing variants
+study music,Focus
+concentration,Focus
+focus mode,Focus
+
+# rainy / late night
+late night,Nostalgic
+night drive,Nostalgic
+
+sprint,Energetic
+gym,Energetic
+hype,Energetic
+beast mode,Confident
+power walk,Confident
+race day,Triumphant
+study music,Focus
+concentration,Focus
+focus mode,Focus
+late night,Nostalgic
+night drive,Nostalgic
+
+intense buildup,Dramatic
+cinematic rise,Dramatic
+club drop,Euphoric
+massive festival drop,Euphoric
+old memories,Nostalgic
+vintage feel,Nostalgic
+spacey textures,Hypnotic
+haunting ambience,Dark
+
+sick,Calm
+not feeling well,Calm
+under the weather,Calm
+need comfort music,Calm
+headache,Calm
+queasy,Calm
+comforting,Warm
+comfort music,Warm
+
+tired,Calm
+tired,Melancholic
+drained,Calm
+exhausted,Tense
+lie down,Calm
+close my eyes,Ethereal
+quiet time,Calm
+recover,Calm
+
+unplug,Calm
+deep breath,Calm
+de-stress,Calm
+grounding,Calm
+quiet mind,Calm
+soft piano,Calm
+ambient pads,Calm
+low key calm,Calm
+soothe me,Calm
+mindful moment,Calm
+breathe slow,Calm
+spa day,Calm
+rain sounds,Calm
+white noise,Calm
+🧘,Calm
+shaant,Calm
+tranquilo,Calm
+calma,Calm
+
+kick back,Chill
+couch vibes,Chill
+easygoing,Chill
+soft grooves,Chill
+late brunch,Chill
+lazy afternoon,Chill
+sunset chill,Chill
+study cafe,Chill
+window seat,Chill
+#lofi,Chill
+coffee break vibes,Chill
+after class winddown,Chill
+mild groove,Chill
+
+soft jazz,Mellow
+buttery,Mellow
+smooth jams,Mellow
+mellow out,Mellow
+gentle swing,Mellow
+evening unwind,Mellow
+light touch,Mellow
+warm mellow,Mellow
+silky,Mellow
+
+stargaze,Dreamy
+moonlit,Dreamy
+reverb drenched,Dreamy
+float away,Dreamy
+sleepy pop,Dreamy
+dream pop,Dreamy
+pastel haze,Dreamy
+starlight,Dreamy
+🌌,Dreamy
+
+cinema scope,Atmospheric
+swelling pads,Atmospheric
+drones,Atmospheric
+textures,Atmospheric
+vast space,Atmospheric
+score-like,Atmospheric
+fog bank,Atmospheric
+wide panorama,Atmospheric
+horizon tones,Atmospheric
+
+motorik,Hypnotic
+4am loop,Hypnotic
+monotone groove,Hypnotic
+hypnosis,Hypnotic
+locked in,Hypnotic
+pulse train,Hypnotic
+tunnel vibe,Hypnotic
+metronomic,Hypnotic
+
+flow state,Focus
+heads down,Focus
+noise cancel,Focus
+binaural,Focus
+alpha waves,Focus
+instrumentals,Focus
+no vocals,Focus
+keep me focused,Focus
+study timer,Focus
+#studywithme,Focus
+
+inside my head,Introspective
+self-reflect,Introspective
+thinking music,Introspective
+2am thoughts,Introspective
+rain on window,Introspective
+quiet journal,Introspective
+deep thoughts,Introspective
+inner monologue,Introspective
+
+downcast,Melancholic
+heavy heart,Melancholic
+sadboi,Melancholic
+sad girl,Melancholic
+hurt,Melancholic
+aching,Melancholic
+blue monday,Melancholic
+tearjerker,Melancholic
+😭,Melancholic
+dil udaas,Melancholic
+
+grim,Somber
+sombre,Somber
+dirge,Somber
+mourning,Somber
+minor fog,Somber
+black umbrella,Somber
+overcast mood,Somber
+🌧️,Somber
+
+simmering,Brooding
+seething,Brooding
+tense silence,Brooding
+dark mood,Brooding
+low burn,Brooding
+storm brewing,Brooding
+glower,Brooding
+
+doom,Dark
+ominous bass,Dark
+void,Dark
+underworld,Dark
+nightmare,Dark
+shadow realm,Dark
+bleak night,Dark
+pitch black,Dark
+🕳️,Dark
+
+toasty,Warm
+sunlit,Warm
+hearth,Warm
+cocoa,Warm
+soft glow,Warm
+golden warmth,Warm
+snug,Warm
+hand-knit sweater,Warm
+comfort hug,Warm
+
+sparkling pop,Bright
+daylight,Bright
+shimmer pop,Bright
+sun-kissed,Bright
+gleaming,Bright
+radiant,Bright
+bright-eyed,Bright
+✨,Bright
+
+good vibes only,Uplifting
+feel better,Uplifting
+smile music,Uplifting
+happy energy,Uplifting
+pep talk,Uplifting
+pick me up please,Uplifting
+sunshine mood,Uplifting
+😊,Uplifting
+feliz,Uplifting
+
+hands up,Euphoric
+ecstatic,Euphoric
+peak time,Euphoric
+rush hour rave,Euphoric
+elevated,Euphoric
+cloud 9,Euphoric
+eyes closed hands up,Euphoric
+blissed out,Euphoric
+
+goofy,Playful
+silly,Playful
+cartoonish,Playful
+plink plonk,Playful
+bubblegum,Playful
+cheeky bop,Playful
+playtime,Playful
+tickle the ear,Playful
+
+date vibes,Romantic
+cuddle,Romantic
+slow jam,Romantic
+roses,Romantic
+love me,Romantic
+candle lit dinner,Romantic
+hearts aflutter,Romantic
+romántico,Romantic
+💞,Romantic
+
+slow grind,Sensual
+sultry,Sensual
+after dark,Sensual
+silk sheets,Sensual
+bedroom eyes,Sensual
+seduce me,Sensual
+close skin,Sensual
+late night touch,Sensual
+🔥 but slow,Sensual
+
+sweet pain,Bittersweet
+smiling through tears,Bittersweet
+happy-sad,Bittersweet
+nostalgic ache,Bittersweet
+tearful smile,Bittersweet
+bittersweet end,Bittersweet
+🥲,Bittersweet
+
+90s kid,Nostalgic
+old school,Nostalgic
+reminisce,Nostalgic
+polaroid memories,Nostalgic
+vhs haze,Nostalgic
+back in the day,Nostalgic
+puraane gaane,Nostalgic
+nostálgico,Nostalgic
+cassette rewind,Nostalgic
+
+light at the end,Hopeful
+silver lining,Hopeful
+keep going,Hopeful
+it gets better,Hopeful
+new dawn,Hopeful
+sunrise,Hopeful
+breath of fresh air,Hopeful
+🌅,Hopeful
+
+we did it,Triumphant
+victory lap,Triumphant
+champion,Triumphant
+take a bow,Triumphant
+win streak,Triumphant
+raise the trophy,Triumphant
+all glory,Triumphant
+🏆,Triumphant
+
+mountains rise,Epic
+hero theme,Epic
+saga,Epic
+legendary,Epic
+battle ready,Epic
+colossal,Epic
+final march,Epic
+drums of war,Epic
+
+amped,Energetic
+full throttle,Energetic
+high energy,Energetic
+go time,Energetic
+let's gooo,Energetic
+turn it up,Energetic
+cranked,Energetic
+#gymtime,Energetic
+⚡,Energetic
+
+angry,Aggressive
+break stuff,Aggressive
+smash,Aggressive
+go berserk,Aggressive
+moshpit,Aggressive
+rage mode,Aggressive
+all caps energy,Aggressive
+skull crusher,Aggressive
+
+distorted,Gritty
+rough edges,Gritty
+lo-fi grit,Gritty
+dirty drums,Gritty
+grimy,Gritty
+oil-stained,Gritty
+warehouse grime,Gritty
+
+in the groove,Groovy
+bounce,Groovy
+boogie,Groovy
+two-step,Groovy
+shake it,Groovy
+get down,Groovy
+pocket feel,Groovy
+hip mover,Groovy
+
+alpha mood,Confident
+strut walk,Confident
+on my boss,Confident
+main character,Confident
+walk like i own it,Confident
+flex,Confident
+power stance,Confident
+💪,Confident
+
+tight chest,Tense
+anxious,Tense
+pressure,Tense
+clenched,Tense
+edge of seat,Tense
+white knuckle,Tense
+heartbeat fast,Tense
+palms sweaty,Tense
+nervous energy,Tense
+
+strings swell,Dramatic
+cue the violins,Dramatic
+plot thickens,Dramatic
+scene change,Dramatic
+climax,Dramatic
+final act,Dramatic
+spotlight moment,Dramatic
+
+heavenly,Ethereal
+reverb tail,Ethereal
+weightless drift,Ethereal
+glacier synths,Ethereal
+halo glow,Ethereal
+cloud chorus,Ethereal
+angel choir,Ethereal
+
+reset mind,Calm
+cool down,Calm
+quiet room,Calm
+soft lull,Calm
+sleep sounds,Calm
+peaceful night,Calm
+counting breaths,Calm
+
+balcony sunset,Chill
+night breeze,Chill
+slow sip coffee,Chill
+streetlights and calm,Chill
+soft rain city,Chill
+hands in hoodie,Chill
+
+amber tone,Warm
+honey light,Warm
+blanket fort,Warm
+glow hour,Warm
+mug in hands,Warm
+
+daybreak,Bright
+sunbeam,Bright
+fresh paint sky,Bright
+high noon,Bright
+bright smile,Bright
+
+pumped,Energetic
+wired up,Energetic
+jet fuel,Energetic
+on the move,Energetic
+hyperdrive,Energetic
+
+shadow work,Introspective
+mirror talk,Introspective
+quiet confession,Introspective
+letters to self,Introspective
+page one thoughts,Introspective
+
+black lace night,Sensual
+candle wax,Sensual
+slow kiss,Sensual
+neck brush,Sensual
+late whispers,Sensual
+
+empty streets at 2am,Nostalgic
+old photos,Nostalgic
+yearbook flip,Nostalgic
+childhood room,Nostalgic
+tape hiss,Nostalgic
+
+rain-soaked coat,Somber
+dim chapel,Somber
+silent procession,Somber
+cold marble,Somber
+winter gray,Somber
+
+glare of steel,Dark
+cold neon,Dark
+void synth,Dark
+ashen sky,Dark
+fear hum,Dark
+
+crackle vinyl,Gritty
+rusty snare,Gritty
+warehouse dust,Gritty
+peeling paint,Gritty
+rough tape,Gritty
+
+hip sway,Groovy
+loose shoulders,Groovy
+midnight funk,Groovy
+pocket groove,Groovy
+bass walk,Groovy
+
+pep rally,Uplifting
+comeback smile,Uplifting
+sun on face,Uplifting
+good hair day,Uplifting
+high five,Uplifting
+
+push to summit,Triumphant
+banner raised,Triumphant
+crowd roars,Triumphant
+finish tape,Triumphant
+proud moment,Triumphant
+
+breathing room,Calm
+soft focus,Calm
+gentle hush,Calm
+weight off shoulders,Calm
+unclench,Calm
+
+focus lock,Focus
+tab blocker,Focus
+do not disturb,Focus
+heads-up study,Focus
+laser mode,Focus
+
+swell and hush,Atmospheric
+cathedral reverb,Atmospheric
+mist horizon,Atmospheric
+slow tide air,Atmospheric
+air currents,Atmospheric
+
+spiral rhythm,Hypnotic
+subtle trance,Hypnotic
+phase shift,Hypnotic
+endless loop,Hypnotic
+mesmeric roll,Hypnotic
+
+alias,canonical
+deep calm,Calm
+zen zone,Calm
+mind rest,Calm
+peace playlist,Calm
+spa ambient,Calm
+soft ocean,Calm
+breathing space,Calm
+serotonin drop,Calm
+gentle waves,Calm
+reset breath,Calm
+quiet chill,Calm
+low energy relax,Calm
+deep sea calm,Calm
+rainy meditation,Calm
+blank mind,Calm
+
+slow groove,Chill
+lazy groove,Chill
+soft vibe,Chill
+cool afternoon,Chill
+easy mood,Chill
+relax beat,Chill
+slow lo-fi,Chill
+night balcony,Chill
+slow coffee,Chill
+sleepy groove,Chill
+tired but fine,Chill
+soft city lights,Chill
+walk in park,Chill
+peaceful beats,Chill
+weekend slow,Chill
+
+smooth tone,Mellow
+lazy groove,Mellow
+comfort soul,Mellow
+soft guitar,Mellow
+warm bass,Mellow
+dim light soul,Mellow
+lounge vibes,Mellow
+lazy love,Mellow
+easy tone,Mellow
+candle groove,Mellow
+softer night,Mellow
+
+cloudwalk,Dreamy
+slow shimmer,Dreamy
+floating sound,Dreamy
+sleep cloud,Dreamy
+mist dream,Dreamy
+soft galaxy,Dreamy
+echo pop,Dreamy
+dream drift,Dreamy
+neon haze,Dreamy
+slow sparkle,Dreamy
+
+aurora,Atmospheric
+fog music,Atmospheric
+ambient journey,Atmospheric
+sound fog,Atmospheric
+deep pad,Atmospheric
+space ambience,Atmospheric
+cinematic pad,Atmospheric
+no beat,Atmospheric
+sound bed,Atmospheric
+dark ambience,Atmospheric
+
+minimal groove,Hypnotic
+loopy beat,Hypnotic
+tunnel tech,Hypnotic
+rolling techno,Hypnotic
+midnight loop,Hypnotic
+beat hypnosis,Hypnotic
+steady pulse,Hypnotic
+slow trance,Hypnotic
+drone loop,Hypnotic
+late warehouse,Hypnotic
+
+study session,Focus
+brain fuel,Focus
+quiet desk,Focus
+work grind,Focus
+productive vibes,Focus
+reading playlist,Focus
+instrumental mix,Focus
+flow focus,Focus
+code time,Focus
+deep focus beats,Focus
+library mix,Focus
+
+mirror mood,Introspective
+writing music,Introspective
+reflection time,Introspective
+heart check,Introspective
+alone in room,Introspective
+thought drift,Introspective
+night thoughts,Introspective
+window stare,Introspective
+soul talk,Introspective
+slow pens,Introspective
+
+hurt song,Melancholic
+slow crying,Melancholic
+heart ache,Melancholic
+empty heart,Melancholic
+emo night,Melancholic
+late cry,Melancholic
+tear stream,Melancholic
+sad lyrics,Melancholic
+soft pain,Melancholic
+dark blue,Melancholic
+
+rain sound,Somber
+heavy sky,Somber
+slow funeral,Somber
+minor tone,Somber
+black coat,Somber
+teardrop piano,Somber
+dreary tone,Somber
+night fog,Somber
+long rain,Somber
+dim alley,Somber
+
+brood core,Brooding
+storm mood,Brooding
+dark smoke,Brooding
+cabin storm,Brooding
+slow anger,Brooding
+depth fire,Brooding
+cloud tension,Brooding
+hidden rage,Brooding
+
+pitch dark,Dark
+black wave,Dark
+doom mood,Dark
+gothic beat,Dark
+shadow groove,Dark
+grim tone,Dark
+dark drone,Dark
+void bass,Dark
+midnight evil,Dark
+sinister synth,Dark
+
+fireplace jazz,Warm
+snuggle up,Warm
+cup of tea,Warm
+warm blanket,Warm
+gold light,Warm
+morning sun,Warm
+slow morning,Warm
+soft touch,Warm
+honey glow,Warm
+gentle hug,Warm
+
+clear sky,Bright
+pop spark,Bright
+color pop,Bright
+shine mood,Bright
+morning light,Bright
+high mood,Bright
+glow up,Bright
+🌞,Bright
+smiley beat,Bright
+energy sparkle,Bright
+
+good energy,Uplifting
+feel better soon,Uplifting
+sunrise vibes,Uplifting
+happy day,Uplifting
+positive tunes,Uplifting
+cheer up,Uplifting
+glad tune,Uplifting
+motivation,Uplifting
+get up song,Uplifting
+life is good,Uplifting
+
+festival night,Euphoric
+mainstage,Euphoric
+drop moment,Euphoric
+hands high,Euphoric
+bass rush,Euphoric
+crowd scream,Euphoric
+light show,Euphoric
+edm peak,Euphoric
+rave night,Euphoric
+🔥 drop,Euphoric
+
+cute tune,Playful
+bubble pop,Playful
+giggle vibe,Playful
+sweet bop,Playful
+fun energy,Playful
+toy piano,Playful
+play song,Playful
+funny beat,Playful
+cheery vibe,Playful
+colorful sound,Playful
+
+love slow,Romantic
+kiss tune,Romantic
+eyes meet,Romantic
+date playlist,Romantic
+rosy glow,Romantic
+valentine mix,Romantic
+late hug,Romantic
+sweetheart sound,Romantic
+flirt vibe,Romantic
+💘,Romantic
+
+slow heat,Sensual
+body rhythm,Sensual
+deep touch,Sensual
+bed slow,Sensual
+late whisper,Sensual
+heat wave,Sensual
+slow mo heat,Sensual
+close groove,Sensual
+skin to skin,Sensual
+💋,Sensual
+
+goodbye smile,Bittersweet
+last hug,Bittersweet
+final dance,Bittersweet
+end credits,Bittersweet
+leaving soon,Bittersweet
+soft goodbye,Bittersweet
+memories fade,Bittersweet
+slow smile,Bittersweet
+😭❤️,Bittersweet
+half smile,Bittersweet
+
+old times,Nostalgic
+retro soul,Nostalgic
+tape rewind,Nostalgic
+analog sound,Nostalgic
+flip phone vibe,Nostalgic
+memory lane,Nostalgic
+vintage groove,Nostalgic
+past love,Nostalgic
+80s feel,Nostalgic
+90s night,Nostalgic
+
+sunlight hope,Hopeful
+keep faith,Hopeful
+small wins,Hopeful
+open door,Hopeful
+moving forward,Hopeful
+fresh air,Hopeful
+rising up,Hopeful
+growth playlist,Hopeful
+hope anthem,Hopeful
+🌈,Hopeful
+
+level up,Triumphant
+finish strong,Triumphant
+won today,Triumphant
+glory track,Triumphant
+on top,Triumphant
+victory march,Triumphant
+rise anthem,Triumphant
+winning beat,Triumphant
+king mode,Triumphant
+👑,Triumphant
+
+orchestral hit,Epic
+grand build,Epic
+massive drop,Epic
+hero anthem,Epic
+battle cry,Epic
+giant score,Epic
+movie vibe,Epic
+legend sound,Epic
+mountain top,Epic
+⚔️,Epic
+
+fast run,Energetic
+move now,Energetic
+push mode,Energetic
+get moving,Energetic
+speed track,Energetic
+lift mood,Energetic
+workout jam,Energetic
+wake up vibe,Energetic
+run faster,Energetic
+⏱️,Energetic
+
+scream core,Aggressive
+rage core,Aggressive
+mosh core,Aggressive
+thrash,Aggressive
+raw anger,Aggressive
+fight mode,Aggressive
+slam beat,Aggressive
+war cry,Aggressive
+loud energy,Aggressive
+🔥 rage,Aggressive
+
+rough tone,Gritty
+tape dust,Gritty
+old amp,Gritty
+dirty loop,Gritty
+garage bass,Gritty
+street mix,Gritty
+low fidelity,Gritty
+rust groove,Gritty
+edge tone,Gritty
+scratch beat,Gritty
+
+swing,Groovy
+jam vibe,Groovy
+dance groove,Groovy
+move hips,Groovy
+shake groove,Groovy
+deep funk,Groovy
+beat pocket,Groovy
+soul bounce,Groovy
+get funky,Groovy
+💃,Groovy
+
+boss energy,Confident
+alpha walk,Confident
+lead mode,Confident
+own it,Confident
+top tier,Confident
+self assured,Confident
+queen walk,Confident
+main role,Confident
+swagger walk,Confident
+🕶️,Confident
+
+tense strings,Tense
+nervous pulse,Tense
+tight beat,Tense
+stress vibe,Tense
+pressure build,Tense
+edge track,Tense
+grit tension,Tense
+anxiety sound,Tense
+heart racing,Tense
+😰,Tense
+
+film score,Dramatic
+trailer rise,Dramatic
+scene break,Dramatic
+big moment,Dramatic
+high emotion,Dramatic
+cinematic end,Dramatic
+slow burn rise,Dramatic
+cliff edge,Dramatic
+build tension,Dramatic
+🎭,Dramatic
+
+angel vibe,Ethereal
+heaven pad,Ethereal
+soft reverb,Ethereal
+float cloud,Ethereal
+celestial,Ethereal
+echo light,Ethereal
+ghostly air,Ethereal
+soft choir,Ethereal
+drift sky,Ethereal
+✨ air,Ethereal
+
